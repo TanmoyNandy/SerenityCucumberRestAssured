@@ -1,7 +1,8 @@
 package support.domain.queryParams;
 
 public enum GetStatusFromHomeTimelineEnum {
-	COUNT("count");
+	COUNT("count"),
+	STATUS("status");
 	
 	private final String queryParams;
 	

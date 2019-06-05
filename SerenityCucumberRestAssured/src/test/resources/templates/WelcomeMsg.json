@@ -1,0 +1,8 @@
+{
+  "welcome_message" : {
+    "name": "${name}",
+    "message_data": {
+      "text": "${text}"
+    }
+  }
+}
